@@ -20,4 +20,6 @@ Currículum web hecho con HTML y CSS.
 Puzzle hecho en Java. 
 🔗 https://github.com/berserker012299-boop/SkyCrapper-Puzlle.git
 
-
+### Travel Dashboard
+Puzzle hecho en Java. 
+🔗 https://github.com/Erick2299/TravelDashBoard.git
