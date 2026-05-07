@@ -27,6 +27,7 @@ Mi objetivo: crear aplicaciones funcionales, bien estructuradas y escalables.
 | [CV Web](https://github.com/berserker012299-boop/Resume) | Currículum personal | HTML · CSS |
 | [Skyscraper Puzzle](https://github.com/berserker012299-boop/SkyCrapper-Puzlle) | Puzzle lógico | Java |
 
+
 <br/>
 
 ## Stack
