@@ -1,49 +1,37 @@
-<svg width="680" height="120" viewBox="0 0 680 120" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Developer banner</title>
-  <desc>Minimalist banner showing name and role as a software developer</desc>
- 
-  <rect width="680" height="120" fill="#0d1117" rx="8"/>
- 
-  <!-- Subtle vertical accent line -->
-  <rect x="48" y="30" width="2" height="60" fill="#58a6ff" opacity="0.7"/>
- 
-  <!-- Name -->
-  <text x="64" y="58" font-family="'Courier New', monospace" font-size="22" font-weight="700" fill="#e6edf3" letter-spacing="1">Erick Pérez</text>
- 
-  <!-- Role -->
-  <text x="64" y="82" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" letter-spacing="2">SOFTWARE DEVELOPER · JAVA · BACKEND</text>
- 
-  <!-- Decorative dots top-right -->
-  <circle cx="618" cy="38" r="3" fill="#58a6ff" opacity="0.3"/>
-  <circle cx="632" cy="38" r="3" fill="#58a6ff" opacity="0.5"/>
-  <circle cx="646" cy="38" r="3" fill="#58a6ff" opacity="0.8"/>
- 
-  <!-- Bottom thin line -->
-  <rect x="48" y="98" width="200" height="1" fill="#58a6ff" opacity="0.2"/>
-</svg>
+<!--
+  Instrucciones: Guarda el bloque SVG como banner.svg en la raíz de tu repositorio
+  y asegúrate de que el archivo README.md esté también en la raíz.
+-->
 
-## Acerca de mi
+<p align="center">
+  <img src="banner.svg" alt="banner" width="680"/>
+</p>
 
-Soy estudiante de desarrollo de software con interés en la programación backend y el desarrollo de aplicaciones en Java. Me gusta construir proyectos prácticos para mejorar mis habilidades en programación orientada a objetos y entender cómo funcionan los sistemas reales.
+<br/>
 
-Actualmente estoy aprendiendo a trabajar con Java, Git y GitHub, además de buenas prácticas de desarrollo como la organización del código y el uso de control de versiones.
+## Sobre mí
 
-Mi objetivo es seguir mejorando como desarrollador y poder crear aplicaciones funcionales, bien estructuradas y escalables.
+Soy estudiante de desarrollo de software enfocado en **backend** y aplicaciones en **Java**. Me apasiona construir proyectos prácticos para profundizar en programación orientada a objetos y entender cómo funcionan los sistemas reales.
+
+Actualmente trabajo con Java, Git y GitHub, siguiendo buenas prácticas como organización del código y control de versiones.
+
+Mi objetivo: crear aplicaciones funcionales, bien estructuradas y escalables.
+
+<br/>
 
 ## Proyectos
 
-### JavaCar
-Sistema de gestión de alquiler de vehículos en Java.  
-🔗 https://github.com/berserker012299-boop/JavaCar.git
+| Proyecto | Descripción | Tecnología |
+|---|---|---|
+| [JavaCar](https://github.com/berserker012299-boop/JavaCar) | Sistema de gestión de alquiler de vehículos | Java |
+| [CV Web](https://github.com/berserker012299-boop/Resume) | Currículum personal | HTML · CSS |
+| [Skyscraper Puzzle](https://github.com/berserker012299-boop/SkyCrapper-Puzlle) | Puzzle lógico | Java |
 
-### CV Web
-Currículum web hecho con HTML y CSS.  
-🔗 https://github.com/berserker012299-boop/Resume.git
+<br/>
 
-### Skycrapper-Puzzle
-Puzzle hecho en Java.  
-🔗 https://github.com/berserker012299-boop/SkyCrapper-Puzlle.git
+## Stack
 
-### Travel Dashboard
-Puzzle hecho en Java.  
-🔗 https://github.com/Erick2299/TravelDashBoard.git
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
