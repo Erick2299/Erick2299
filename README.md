@@ -6,9 +6,7 @@
 <p>
   <img src="banner.svg" alt="banner" width="100%"/>
 </p>
-
 <br/>
-
 ## Sobre mí
 
 Soy estudiante de desarrollo de software enfocado en **backend** y aplicaciones en **Java**. Me apasiona construir proyectos prácticos para profundizar en programación orientada a objetos y entender cómo funcionan los sistemas reales.
