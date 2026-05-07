@@ -11,7 +11,7 @@
   <text x="64" y="58" font-family="'Courier New', monospace" font-size="22" font-weight="700" fill="#e6edf3" letter-spacing="1">Erick Pérez</text>
 
   <!-- Role -->
-  <text x="64" y="82" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" letter-spacing="2">SOFTWARE DEVELOPER · JAVA · BACKEND</text>
+  <text x="64" y="82" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" letter-spacing="2">DESRROLLADOR JUNIOR</text>
 
   <!-- Decorative dots top-right -->
   <circle cx="618" cy="38" r="3" fill="#58a6ff" opacity="0.3"/>
