@@ -3,8 +3,8 @@
   y asegúrate de que el archivo README.md esté también en la raíz.
 -->
 
-<p align="center">
-  <img src="banner.svg" alt="banner" width="680"/>
+<p>
+  <img src="banner.svg" alt="banner" width="100%"/>
 </p>
 
 <br/>
