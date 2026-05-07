@@ -26,6 +26,7 @@ Mi objetivo: crear aplicaciones funcionales, bien estructuradas y escalables.
 | [JavaCar](https://github.com/berserker012299-boop/JavaCar) | Sistema de gestión de alquiler de vehículos | Java |
 | [CV Web](https://github.com/berserker012299-boop/Resume) | Currículum personal | HTML · CSS |
 | [Skyscraper Puzzle](https://github.com/berserker012299-boop/SkyCrapper-Puzlle) | Puzzle lógico | Java |
+| [Travel Dashboard](https://github.com/Erick2299/TravelDashBoard) | Dashboard de viajes | HTML · CSS |
 
 
 <br/>
