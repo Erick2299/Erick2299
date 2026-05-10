@@ -1,37 +1,48 @@
-<svg width="100%" height="120" viewBox="0 0 1000 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg 
+  width="100%" 
+  height="120" 
+  viewBox="0 0 100 120" 
+  preserveAspectRatio="none"
+  xmlns="http://www.w3.org/2000/svg" 
+  role="img"
+>
   <title>Developer banner</title>
-  <desc>Minimalist banner showing name and role as a software developer</desc>
 
   <!-- Fondo -->
-  <rect width="1000" height="120" fill="#0d1117"/>
+  <rect width="100%" height="120" fill="#0d1117"/>
 
   <!-- Línea vertical -->
-  <rect x="70" y="30" width="2" height="60" fill="#58a6ff" opacity="0.7"/>
+  <rect x="5" y="30" width="0.2" height="60" fill="#58a6ff" opacity="0.7"/>
 
   <!-- Nombre -->
-  <text x="90" y="58"
-        font-family="'Courier New', monospace"
-        font-size="22"
-        font-weight="700"
-        fill="#e6edf3"
-        letter-spacing="1">
+  <text
+    x="7"
+    y="58"
+    font-family="'Courier New', monospace"
+    font-size="22"
+    font-weight="700"
+    fill="#e6edf3"
+  >
     Erick Pérez
   </text>
 
   <!-- Rol -->
-  <text x="90" y="82"
-        font-family="'Courier New', monospace"
-        font-size="13"
-        fill="#58a6ff"
-        letter-spacing="2">
+  <text
+    x="7"
+    y="82"
+    font-family="'Courier New', monospace"
+    font-size="13"
+    fill="#58a6ff"
+    letter-spacing="1"
+  >
     DESARROLLADOR JUNIOR
   </text>
 
   <!-- Puntos derecha -->
-  <circle cx="920" cy="38" r="3" fill="#58a6ff" opacity="0.3"/>
-  <circle cx="940" cy="38" r="3" fill="#58a6ff" opacity="0.5"/>
-  <circle cx="960" cy="38" r="3" fill="#58a6ff" opacity="0.8"/>
+  <circle cx="92" cy="38" r="0.4" fill="#58a6ff" opacity="0.3"/>
+  <circle cx="94" cy="38" r="0.4" fill="#58a6ff" opacity="0.5"/>
+  <circle cx="96" cy="38" r="0.4" fill="#58a6ff" opacity="0.8"/>
 
   <!-- Línea inferior -->
-  <rect x="70" y="98" width="260" height="1" fill="#58a6ff" opacity="0.2"/>
+  <rect x="5" y="98" width="22" height="1" fill="#58a6ff" opacity="0.2"/>
 </svg>
