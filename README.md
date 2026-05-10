@@ -1,37 +1,48 @@
-<!--
-  Instrucciones: Guarda el bloque SVG como banner.svg en la raíz de tu repositorio
-  y asegúrate de que el archivo README.md esté también en la raíz.
--->
+<svg 
+  width="100%" 
+  height="120" 
+  viewBox="0 0 100 120" 
+  preserveAspectRatio="none"
+  xmlns="http://www.w3.org/2000/svg" 
+  role="img"
+>
+  <title>Developer banner</title>
 
-<p>
-  <img src="banner.svg" alt="banner" width="100%"/>
-</p>
-<br/>
-## Sobre mí
+  <!-- Fondo -->
+  <rect width="100%" height="120" fill="#0d1117"/>
 
-Soy estudiante de desarrollo de software enfocado en **backend** y aplicaciones en **Java**. Me apasiona construir proyectos prácticos para profundizar en programación orientada a objetos y entender cómo funcionan los sistemas reales.
+  <!-- Línea vertical -->
+  <rect x="5" y="30" width="0.2" height="60" fill="#58a6ff" opacity="0.7"/>
 
-Actualmente trabajo con Java, Git y GitHub, siguiendo buenas prácticas como organización del código y control de versiones.
+  <!-- Nombre -->
+  <text
+    x="7"
+    y="58"
+    font-family="'Courier New', monospace"
+    font-size="22"
+    font-weight="700"
+    fill="#e6edf3"
+  >
+    Erick Pérez
+  </text>
 
-Mi objetivo: crear aplicaciones funcionales, bien estructuradas y escalables.
+  <!-- Rol -->
+  <text
+    x="7"
+    y="82"
+    font-family="'Courier New', monospace"
+    font-size="13"
+    fill="#58a6ff"
+    letter-spacing="1"
+  >
+    DESARROLLADOR JUNIOR
+  </text>
 
-<br/>
+  <!-- Puntos derecha -->
+  <circle cx="92" cy="38" r="0.4" fill="#58a6ff" opacity="0.3"/>
+  <circle cx="94" cy="38" r="0.4" fill="#58a6ff" opacity="0.5"/>
+  <circle cx="96" cy="38" r="0.4" fill="#58a6ff" opacity="0.8"/>
 
-## Proyectos
-
-| Proyecto | Descripción | Tecnología |
-|---|---|---|
-| [JavaCar](https://github.com/berserker012299-boop/JavaCar) | Sistema de gestión de alquiler de vehículos | Java |
-| [CV Web](https://github.com/berserker012299-boop/Resume) | Currículum personal | HTML · CSS |
-| [Skyscraper Puzzle](https://github.com/berserker012299-boop/SkyCrapper-Puzlle) | Puzzle lógico | Java |
-| [Travel Dashboard](https://github.com/Erick2299/TravelDashBoard) | Dashboard de viajes | HTML · CSS |
-
-
-<br/>
-
-## Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  <!-- Línea inferior -->
+  <rect x="5" y="98" width="22" height="1" fill="#58a6ff" opacity="0.2"/>
+</svg>
