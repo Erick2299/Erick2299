@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="banner.svg" alt="banner" width="680"/>
+  <img src="banner.svg" alt="banner" width="100%"/>
 </p>
 
 <br/>
